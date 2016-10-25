@@ -41,6 +41,9 @@ func toCSS(c color.Color) string {
 
 ```
 
+The generated CSS was used to build this next example:
+
+![example](https://dl.dropboxusercontent.com/u/262919/colorarty-demo.png)
 
 ## Installing
 1. Download and install it:
