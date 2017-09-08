@@ -51,7 +51,7 @@ The generated CSS was used to build this next example:
 $ go get -u github.com/victorgama/colorarty
 ```
 2. Import it in your code:
-```
+```go
 import "github.com/victorgama/colorarty"
 ```
 
